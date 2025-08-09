@@ -1,5 +1,5 @@
 # TinyStories SLM: A PyTorch Implementation 
-This project is a from-scratch implementation of a Small Language Model (SLM) in PyTorch, based on the concepts presented in the research paper "[TinyStories: How Small Can Language Models Be and Still Speak Coherent English?]"(https://arxiv.org/abs/2305.07759).
+This project is a from-scratch implementation of a Small Language Model (SLM) in PyTorch, based on the concepts presented in the research paper [TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759).
 
 The goal is to build a decoder-only Transformer with approximately 30 million parameters that can generate creative and coherent short stories after being trained on the TinyStories dataset.
 
